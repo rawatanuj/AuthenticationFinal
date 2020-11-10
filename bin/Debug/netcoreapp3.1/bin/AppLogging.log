@@ -1,0 +1,30 @@
+INFO  10:59:31 Application started. Press Ctrl+C to shut down.
+INFO  10:59:31 Application started. Press Ctrl+C to shut down.
+INFO  10:59:31 Hosting environment: Development
+INFO  10:59:31 Hosting environment: Development
+INFO  10:59:31 Content root path: C:\Users\Anuj-PC\source\repos\Authentication
+INFO  10:59:31 Content root path: C:\Users\Anuj-PC\source\repos\Authentication
+INFO  11:01:18 Application started. Press Ctrl+C to shut down.
+INFO  11:01:18 Application started. Press Ctrl+C to shut down.
+INFO  11:01:18 Hosting environment: Development
+INFO  11:01:18 Hosting environment: Development
+INFO  11:01:18 Content root path: C:\Users\Anuj-PC\source\repos\Authentication
+INFO  11:01:18 Content root path: C:\Users\Anuj-PC\source\repos\Authentication
+INFO  11:03:29 Sakil requested to login application
+INFO  11:03:29 Sakil Authenticated successfully
+INFO  11:03:29 Sakil logged in successfully
+INFO  11:03:54 Rohit requested to login application
+WARN  11:03:54 Rohit Attempted to login with invalid credentials
+WARN  11:03:54 RohitFailed to login
+INFO  11:04:09 Rohit requested to login application
+WARN  11:04:09 Rohit Attempted to login with invalid credentials
+WARN  11:04:09 RohitFailed to login
+INFO  11:04:11 Rohit requested to login application
+WARN  11:04:11 Rohit Attempted to login with invalid credentials
+WARN  11:04:11 RohitFailed to login
+INFO  11:04:14 Rohit requested to login application
+WARN  11:04:14 Rohit Attempted to login with invalid credentials
+WARN  11:04:14 RohitFailed to login
+INFO  11:04:24 Rohit requested to login application
+INFO  11:04:24 Rohit Authenticated successfully
+INFO  11:04:24 Rohit logged in successfully
